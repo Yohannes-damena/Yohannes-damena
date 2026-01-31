@@ -76,20 +76,6 @@ I value clean design, logical thinking, and code that actually does something us
 
 <div align="center">
 
-### 📊 GitHub Activity
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌍 Connect With Me
