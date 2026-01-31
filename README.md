@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yohannes-damena&label=Profile views&color=0e75b6&style=flat" alt="Yohannes-damena" /> </p>
 
-- 🔭 I'm currently working on ** Currently building a **Kahoot-like web app** with a twist:  
-- Real-time multiplayer quizzes  
-- Subtle animations and refined UI interactions  
-- Backend built with **Node.js & WebSockets**  **
-
 - 🌱 I'm currently learning **Currently learning and experimenting with "Websockets and real-time applications"**
 
 - 📫 How to reach me **damenayohannes@gmail.com**
