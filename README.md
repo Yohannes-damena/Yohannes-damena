@@ -1,23 +1,113 @@
-# Hi 👋, I'm Yohannes Damena
+<div align="center">
 
-### Full-Stack Developer | Building Real-Time, Interactive & Scalable Web Apps
+# 👋 Hello, I’m **Yohannes Damena**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yohannes-damena&label=Profile views&color=0e75b6&style=flat" alt="Yohannes-damena" /> </p>
+**Software Engineering & Mechanical Engineering Student**  
+Building systems, solving problems, and learning by doing.
 
-- 🌱 I'm currently learning **Currently learning and experimenting with "Websockets and real-time applications"**
+</div>
 
-- 📫 How to reach me **damenayohannes@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Yohannes-damena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yohannes-damena" height="30" width="40" /></a>
-<a href="https://leetcode.com/cloudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cloudy" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+### 🧠 Who Am I?
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yohannes-damena&show_icons=true&locale=en&layout=compact" alt="Yohannes-damena" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yohannes-damena&show_icons=true&locale=en" alt="Yohannes-damena" /></p>
+I’m a **Software Engineering and Mechanical Engineering student** with a strong interest in learning new technologies and solving challenging problems. I regularly practice **problem solving on LeetCode** and enjoy turning theoretical knowledge into **real, working projects**.
 
+Currently, I’m focused on building **fun and engaging applications** that help me apply and deepen my understanding of:
+
+- 🌐 Full-stack development with the **MERN stack**
+- ⚙️ **C++** for performance-oriented and system-level programming
+- 🤖 **Python** for automation, scripting, and tooling
+
+I value clean design, logical thinking, and code that actually does something useful.
+
+---
+
+<div align="center">
+
+### 🔧 Tech Stack
+
+</div>
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+<br/>
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📌 Featured Projects
+
+</div>
+
+<div align="center">
+
+| Project | Description |
+|-------|-------------|
+| 🎮 **Raylib Game (C)** | A modular C game with scoring, game-over state, and clean structure |
+| 💬 **SMS Expense Parser** | Python automation tool to extract expenses from bank SMS messages |
+| 🌐 **MERN Projects** | Full-stack apps focused on authentication, APIs, and clean UI |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Activity
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌍 Connect With Me
+
+</div>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *Learning. Building. Improving — one project at a time.*
+
+</div>
